@@ -4,7 +4,7 @@ A full-stack notes application with React frontend and Express backend, using Ty
 
 ## 🏗 Project Structure
 
-\`\`\`
+
 notes-app/
 ├── frontend/          # React Frontend
 │   ├── src/
@@ -23,7 +23,7 @@ notes-app/
 │   │   └── utils/
 │   └── package.json
 └── README.md
-\`\`\`
+
 
 ## 🚀 Setup Instructions
 
