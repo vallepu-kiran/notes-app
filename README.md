@@ -99,3 +99,8 @@ npm start
 - **POST** `/api/notes` - Create note
 - **DELETE** `/api/notes/:id` - Delete note
 - **GET** `/api/analytics/tags` - Get tag analytics
+
+  ![Screenshot 2025-05-31 114514](https://github.com/user-attachments/assets/79621e7c-e7cd-44a4-8acb-e82f477e8c5c)
+![Screenshot 2025-05-31 114455](https://github.com/user-attachments/assets/d99b18d9-2e4c-4719-9918-87dddadb6be2)
+![Screenshot 2025-05-31 114550](https://github.com/user-attachments/assets/d31195d7-687f-4521-a892-247da9379992)
+
